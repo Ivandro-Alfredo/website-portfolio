@@ -8,7 +8,7 @@ import MenuOverlay from './sobProsicaoDoMenu';
 
 const navLinks = [
     {
-        title:'About',
+        title:'About-me',
         href:"#about"
     },
     {
