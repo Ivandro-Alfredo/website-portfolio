@@ -1,6 +1,12 @@
 import Link from "next/link";
 
-export const NavLink = ({href,title})=>{
+interface NavLinkProps {
+    href: string;
+    title: string;
+}
+
+export const NavLink = ({href,title}:any)=>{
+    
     return (
         <div>
             <Link href={href} 
