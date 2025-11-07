@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { Animation } from './animation';
 import { FaLinkedin, FaGithub, FaGlobe } from 'react-icons/fa';
 
+
 const Introduction = () => {
 	return (
 		<section>
