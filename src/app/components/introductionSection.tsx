@@ -30,7 +30,7 @@ const Introduction = () => {
 				<div className='col-span-5 place-self-center mt-4 lg:mt-0'>
 					<div className='rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px]  relative'>
 						<Image
-							src='/image/iv-dev.png'
+							src='../../public/image/DB3A3114.jpg'
 							alt='Ivandro IV'
 							className='absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 rounded-full'
 							width={350}
